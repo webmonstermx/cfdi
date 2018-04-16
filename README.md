@@ -17,7 +17,7 @@
 Para instalar el paquete mediante [Composer](https://getcomposer.org/).
 
 ```shell
-composer require orlandocharles/cfdi
+composer require webmonstermx/cfdi
 ```
 
 ## Uso
